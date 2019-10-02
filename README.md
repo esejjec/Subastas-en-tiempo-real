@@ -4,12 +4,14 @@ base de datos:
 >SQL
 
 priorización de Requerimientos
-Cada subasta tiene precio establecido por el ofertante, fecha de inicio, fecha final,
+
+>Cada subasta tiene precio establecido por el ofertante, fecha de inicio, fecha final,
+
 >id_producto, tipo de subasta, precio del ganador, usuario ganador, tipo de subasta.
 
 >Los usuarios tienen nombre. apellido, correo, nombre de usuario, clave de usuario, rol.
 
->La clase rol descrive el rol que tiene cada usuario
+>La clase rol describe el rol que tiene cada usuario
 
 >Cada producto pertenece a una categoria y una marca
 
