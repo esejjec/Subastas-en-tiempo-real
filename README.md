@@ -35,7 +35,7 @@ Requisitos específicos
 >Dinero se representa como puja
 
 
-Requisitos no rendimiento (no funcionales) 
+Requisitos de rendimiento (no funcionales) 
 >El sistema de debe de actualizar en tiempo real para que no exista cruces.
 
 >El sistema debe priorizar resguardar la seguridad de cada usuario.
