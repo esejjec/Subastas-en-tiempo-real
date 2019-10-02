@@ -3,7 +3,7 @@
 base de datos:
 >SQL
 
-priorización de Requerimientos
+Descripcion del modelo de Datos
 
 >Cada subasta tiene precio establecido por el ofertante, fecha de inicio, fecha final,
 
@@ -23,4 +23,21 @@ priorización de Requerimientos
   sexo, fecha de nacimiento, nombre de usuario, cable de usuario, correo, tipo de oferta 
   y tiṕo de ofertantes.
 
+priorización de Requerimientos
 
+Requisitos específicos
+>El sistema debe de asegurar que los usurios se registran con el formulario de forma segura
+ y puedan ingresar con su nombre de usuario y clave de usuario (Login)
+
+>Los usuarios pueden ser ofertantes, el sistema debe registrar los productos a ofertar 
+  con sus respectivas caracteristicas.
+  
+>Dinero se representa como puja
+
+
+Requisitos no rendimiento (no funcionales) 
+>El sistema de debe de actualizar en tiempo real para que no exista cruces.
+
+>El sistema debe priorizar resguardar la seguridad de cada usuario.
+
+>El sistema debe seguir con grandes cantidades de usuarios activos.
